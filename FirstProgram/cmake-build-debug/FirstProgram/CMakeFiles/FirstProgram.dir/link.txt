@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/FirstProgram.dir/FirstProgram.cpp.o  -o FirstProgram.exe -Wl,--out-implib,libFirstProgram.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

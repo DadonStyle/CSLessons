@@ -1,0 +1,5 @@
+/cygdrive/d/Projects/CSLessons/FirstProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Projects/CSLessons/FirstProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Projects/CSLessons/FirstProgram/cmake-build-debug/FirstProgram/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Projects/CSLessons/FirstProgram/cmake-build-debug/FirstProgram/CMakeFiles/FirstProgram.dir
+/cygdrive/d/Projects/CSLessons/FirstProgram/cmake-build-debug/FirstProgram/CMakeFiles/edit_cache.dir

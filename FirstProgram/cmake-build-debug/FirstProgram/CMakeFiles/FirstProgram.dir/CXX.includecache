@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Projects/CSLessons/FirstProgram/FirstProgram/FirstProgram.cpp
+FirstProgram.h
+/cygdrive/d/Projects/CSLessons/FirstProgram/FirstProgram/FirstProgram.h
+
+/cygdrive/d/Projects/CSLessons/FirstProgram/FirstProgram/FirstProgram.h
+iostream
+-
+
