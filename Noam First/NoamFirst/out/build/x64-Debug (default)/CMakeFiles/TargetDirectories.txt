@@ -1,0 +1,5 @@
+C:/Users/Noam/Desktop/Projects/CSLessons/Noam First/NoamFirst/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Noam First/NoamFirst/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Noam First/NoamFirst/out/build/x64-Debug (default)/NoamFirst/CMakeFiles/NoamFirst.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Noam First/NoamFirst/out/build/x64-Debug (default)/NoamFirst/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Noam First/NoamFirst/out/build/x64-Debug (default)/NoamFirst/CMakeFiles/rebuild_cache.dir

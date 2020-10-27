@@ -34,7 +34,7 @@ int main()
     cout << "What is your age? ";
     cin >> age;
     cout << "Your age is: " << age << endl; //  Chaining outputs
-
+    
     int years_left = 100 - age;
 
     if(years_left >= 0) // Boolean Statement
@@ -44,7 +44,7 @@ int main()
     else { // Scope of ELSE
         cout << "Actually, I'm pretty sure you're dead..." << endl;
     }
-
+    cout << "haha lol" << endl;
     return 0;
 
     // Some shit
