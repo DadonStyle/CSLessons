@@ -1,0 +1,5 @@
+D:/Projects/CSLessons/FunctionsAndPrimitives/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/FunctionsAndPrimitives/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/FunctionsAndPrimitives/out/build/x64-Debug (default)/FunctionsAndPrimitives/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/FunctionsAndPrimitives/out/build/x64-Debug (default)/FunctionsAndPrimitives/CMakeFiles/FunctionsAndPrimitives.dir
+D:/Projects/CSLessons/FunctionsAndPrimitives/out/build/x64-Debug (default)/FunctionsAndPrimitives/CMakeFiles/edit_cache.dir
