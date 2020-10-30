@@ -1,0 +1,5 @@
+D:/Projects/CSLessons/Arrays/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Arrays/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/Arrays/out/build/x64-Debug (default)/Arrays/CMakeFiles/Arrays.dir
+D:/Projects/CSLessons/Arrays/out/build/x64-Debug (default)/Arrays/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Arrays/out/build/x64-Debug (default)/Arrays/CMakeFiles/rebuild_cache.dir
