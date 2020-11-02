@@ -1,3 +1,14 @@
 # ninja log v5
 1	404	625684160	Arrays/CMakeFiles/Arrays.dir/Arrays.cpp.obj	b0e142ee08f11641
 405	1260	625684161	Arrays/Arrays.exe	5dd148c4278ed26b
+4	285	626034808	Arrays/CMakeFiles/Arrays.dir/Another.cpp.obj	b35033d77bb519c4
+1	437	626034809	Arrays/CMakeFiles/Arrays.dir/Arrays.cpp.obj	b0e142ee08f11641
+437	1260	626034809	Arrays/Arrays.exe	7fcc2d8f2e8b0ef
+0	401	626034858	Arrays/CMakeFiles/Arrays.dir/Arrays.cpp.obj	b0e142ee08f11641
+401	656	626034858	Arrays/Arrays.exe	7fcc2d8f2e8b0ef
+0	583	626035117	Arrays/CMakeFiles/Arrays.dir/Arrays.cpp.obj	b0e142ee08f11641
+583	823	626035117	Arrays/Arrays.exe	7fcc2d8f2e8b0ef
+0	569	626035215	Arrays/CMakeFiles/Arrays.dir/Arrays.cpp.obj	b0e142ee08f11641
+569	789	626035215	Arrays/Arrays.exe	7fcc2d8f2e8b0ef
+1	394	626035574	Arrays/CMakeFiles/Arrays.dir/Arrays.cpp.obj	b0e142ee08f11641
+394	757	626035574	Arrays/Arrays.exe	7fcc2d8f2e8b0ef
