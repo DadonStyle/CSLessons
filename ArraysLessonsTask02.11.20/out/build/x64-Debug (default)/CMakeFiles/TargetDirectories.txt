@@ -1,0 +1,5 @@
+C:/Users/Noam/source/repos/ArraysLessonsTask02.11.20/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Noam/source/repos/ArraysLessonsTask02.11.20/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Noam/source/repos/ArraysLessonsTask02.11.20/out/build/x64-Debug (default)/ArraysLessonsTask02.11.20/CMakeFiles/ArraysLessonsTask02.11.20.dir
+C:/Users/Noam/source/repos/ArraysLessonsTask02.11.20/out/build/x64-Debug (default)/ArraysLessonsTask02.11.20/CMakeFiles/edit_cache.dir
+C:/Users/Noam/source/repos/ArraysLessonsTask02.11.20/out/build/x64-Debug (default)/ArraysLessonsTask02.11.20/CMakeFiles/rebuild_cache.dir
