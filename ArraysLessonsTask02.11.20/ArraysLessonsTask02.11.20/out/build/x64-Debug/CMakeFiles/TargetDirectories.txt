@@ -1,0 +1,3 @@
+D:/Projects/CSLessons/ArraysLessonsTask02.11.20/ArraysLessonsTask02.11.20/out/build/x64-Debug/CMakeFiles/ArraysLessonsTask02.11.20.dir
+D:/Projects/CSLessons/ArraysLessonsTask02.11.20/ArraysLessonsTask02.11.20/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/ArraysLessonsTask02.11.20/ArraysLessonsTask02.11.20/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
