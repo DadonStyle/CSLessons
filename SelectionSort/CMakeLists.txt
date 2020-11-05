@@ -3,7 +3,7 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project ("Task 03.11.20")
+project ("SelectionSort")
 
 # Include sub-projects.
-add_subdirectory ("Task 03.11.20")
+add_subdirectory ("SelectionSort")
