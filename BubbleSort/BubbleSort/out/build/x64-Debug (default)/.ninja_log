@@ -1,0 +1,23 @@
+# ninja log v5
+1	882	626474101	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+882	1371	626474101	BubbleSort.exe	406d9ca6562e3831
+1	766	626474136	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+766	960	626474137	BubbleSort.exe	406d9ca6562e3831
+1	493	626474147	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+493	663	626474147	BubbleSort.exe	406d9ca6562e3831
+1	540	626474155	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+541	699	626474155	BubbleSort.exe	406d9ca6562e3831
+1	789	626475053	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+790	951	626475053	BubbleSort.exe	406d9ca6562e3831
+1	724	626475075	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+724	947	626475075	BubbleSort.exe	406d9ca6562e3831
+1	754	626475361	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+754	962	626475361	BubbleSort.exe	406d9ca6562e3831
+2	705	626475416	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+705	890	626475416	BubbleSort.exe	406d9ca6562e3831
+1	821	626475591	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+822	1015	626475591	BubbleSort.exe	406d9ca6562e3831
+1	507	626475599	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+507	675	626475599	BubbleSort.exe	406d9ca6562e3831
+0	777	626475708	CMakeFiles/BubbleSort.dir/BubbleSort.cpp.obj	3227fe9df2cce32a
+777	1024	626475708	BubbleSort.exe	406d9ca6562e3831
