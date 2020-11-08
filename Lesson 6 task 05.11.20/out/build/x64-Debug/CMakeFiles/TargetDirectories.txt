@@ -1,0 +1,5 @@
+D:/Projects/CSLessons/Lesson 6 task 05.11.20/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Lesson 6 task 05.11.20/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/Lesson 6 task 05.11.20/out/build/x64-Debug/Lesson 6 task 05.11.20/CMakeFiles/CMakeTarget.dir
+D:/Projects/CSLessons/Lesson 6 task 05.11.20/out/build/x64-Debug/Lesson 6 task 05.11.20/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Lesson 6 task 05.11.20/out/build/x64-Debug/Lesson 6 task 05.11.20/CMakeFiles/rebuild_cache.dir

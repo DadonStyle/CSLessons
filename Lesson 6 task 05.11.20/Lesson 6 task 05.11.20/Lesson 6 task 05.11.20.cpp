@@ -6,36 +6,34 @@
 // and than print the sum of all the numbers with the values that he insert
 using namespace std;
 
+int sum(int * arr, int s) {
+	int add = 0;
+	for (int i = 0; i < s; i++) add += arr[i]; // add = add + arr[i];
+	return add;
+}
+
+void getArrayFromUser(int* arr, int size) {
+	for (int i = 0; i < size; i++) {
+		cout << "enter number " << i + 1 << ":";
+		cin >> arr[i]; // arr == hu + 2 -> arr[0] = hu[2]
+	}
+}
 
 int main()
 {
-	int age;
-	int YOB;
 	const int size = 4;
-	int arr[size];
+	int hu[size + 2];
 
 	cout << "How old are you?" << endl;
-	cin >> age;
+	cin >> hu[0]; // Age
 
 	cout << "What's your year of birth?" << endl;
-	cin >> YOB;
+	cin >> hu[1]; // Year of birth
 
-	for (int i = 0; i < size; i++) {
-		cout << "enter number " << i + 1 << ":";
-		cin >> arr[i];
+	getArrayFromUser(hu + 2, size);
+	
+	int add = sum(hu, size + 2);
 
-	}
-	
-	int add = arr[0];
-	int	index = 1;
-	
-	while (index < size) {
-		add = add + arr[index];
-		index++;
-	}
-
-	cout << add + age + YOB;
-	
-
-	
+	cout << add << " " << size;
+	cout << endl << *(hu); // arr[2]
 }
