@@ -6,35 +6,44 @@
 // and than print the sum of all the numbers with the values that he insert
 using namespace std;
 
-
-int main()
-{
-	int age;
-	int YOB;
-	const int size = 4;
-	int arr[size];
-
-	cout << "How old are you?" << endl;
-	cin >> age;
-
-	cout << "What's your year of birth?" << endl;
-	cin >> YOB;
-
-	for (int i = 0; i < size; i++) {
+void Insert(int* arr, int size) {
+	for (int i = 2; i < size; i++) {
 		cout << "enter number " << i + 1 << ":";
 		cin >> arr[i];
 
 	}
-	
-	int add = arr[0];
-	int	index = 1;
-	
-	while (index < size) {
-		add = add + arr[index];
-		index++;
-	}
+}
 
-	cout << add + age + YOB;
+void add(int* arr, int size) { 
+	int sum = 0;
+	for (int i = 0; i < size; i++)
+	{
+		sum += arr[i];
+	}
+	cout << sum;
+}
+
+
+int main()
+{
+	const int size = 5;
+	int arr[size];
+	
+
+	cout << "How old are you?" << endl;
+	cin >> arr[0];
+
+	cout << "What's your year of birth?" << endl;
+	cin >> arr[1];
+
+	Insert(arr, size);
+
+	add(arr, size);
+
+	
+		
+
+
 	
 
 	
