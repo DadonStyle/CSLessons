@@ -1,0 +1,5 @@
+D:/Projects/CSLessons/Strings/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Strings/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/Strings/out/build/x64-Debug (default)/Strings/CMakeFiles/Strings.dir
+D:/Projects/CSLessons/Strings/out/build/x64-Debug (default)/Strings/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Strings/out/build/x64-Debug (default)/Strings/CMakeFiles/rebuild_cache.dir
