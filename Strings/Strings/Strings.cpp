@@ -18,59 +18,38 @@ int cinString(char * str, int size) { // camelCase
 	return new_size;
 }
 
-void StringFinder(int size_str, int size_find, char* str, char* find) {
+int StringFinder(int size_str, int size_find, char* str, char* find) {
+	bool is_matching; // Flag problem
 
-	
-
-	for (int i = 0; i <= size_str - size_find; i++) {
-		
-		bool is_true = true;
-
-		for (int j = 0; j < size_find; j++) {
-
-			if (str[i + j] != find[j]) {
-				is_true = false;
+	for (int i = 0; i <= size_str - size_find; i++) { // Ordinal Problem
+		is_matching = true;
+		for (int j = 0; j < size_find; j++) { // Ordinal problem
+			if (str[i + j] != find[j]) { // Conditional Loop Problem
+				is_matching = false;
 				break;
-				
 			}
-
-			
 		}
 
-		if (is_true) {
-			cout << "The position is: " << i << endl;
-			break;
-
-		}
-
+		if (is_matching) return i;
 	}
-
-	
-	if (str[size_str - size_find] != find[0]) cout << "-1" << endl;
-	
-	
+	return -1;
 }
 
 int main()
 {
-
 	const int SIZE = 256;
 	char str[SIZE] = { 0 };
 	char find[SIZE] = { 0 };
 	int size_str = 0;
 	int size_find = 0;
-	
 
 	cout << "Enter A sentence: " << endl;
 	size_str = cinString(str, SIZE);
 	cout << "What to find in the sentence: " << endl;
 	size_find = cinString(find, SIZE);
 
-	StringFinder(size_str, size_find, str, find);
-
-	
-		
-
+	int result = StringFinder(size_str, size_find, str, find);
+	cout << "Position at: " << result << endl;
 
 	// TODO: return the start index of the first occurrence of find in str;
 	return 0;

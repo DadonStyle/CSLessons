@@ -669,14 +669,14 @@
 			"path" : "out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CMakeCXXCompiler.cmake"
 		},
 		{
-			"path" : "Strings/CMakeLists.txt"
+			"path" : "Primes/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/Projects/CSLessons/Strings/out/build/x64-Debug (default)",
-		"source" : "D:/Projects/CSLessons/Strings"
+		"build" : "D:/Projects/CSLessons/Primes/out/build/x64-Debug (default)",
+		"source" : "D:/Projects/CSLessons/Primes"
 	},
 	"version" : 
 	{
