@@ -18,7 +18,7 @@ int cinString(char * str, int size) { // camelCase
 	return new_size;
 }
 
-void StringFinder(int size_str, int size_find, char* str, char* find) {
+int StringFinder(int size_str, int size_find, char* str, char* find) {
 
 	
 
@@ -46,7 +46,7 @@ void StringFinder(int size_str, int size_find, char* str, char* find) {
 	}
 
 	
-	if (str[size_str - size_find] != find[0]) cout << "-1" << endl;
+	if (str[size_str - size_find] != find[0]) return -1;
 	
 	
 }
