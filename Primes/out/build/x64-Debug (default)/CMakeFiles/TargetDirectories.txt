@@ -1,0 +1,5 @@
+D:/Projects/CSLessons/Primes/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Primes/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/Primes/out/build/x64-Debug (default)/Primes/CMakeFiles/Primes.dir
+D:/Projects/CSLessons/Primes/out/build/x64-Debug (default)/Primes/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Primes/out/build/x64-Debug (default)/Primes/CMakeFiles/rebuild_cache.dir

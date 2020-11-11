@@ -1,0 +1,3 @@
+C:/Users/Noam/Desktop/Projects/CSLessons/Primes/Primes/out/build/x64-Debug/CMakeFiles/Primes.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Primes/Primes/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Primes/Primes/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
