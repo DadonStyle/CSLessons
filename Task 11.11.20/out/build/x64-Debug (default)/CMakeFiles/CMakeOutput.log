@@ -1,4 +1,4 @@
-The system is: Windows - 10.0.17134 - AMD64
+The system is: Windows - 10.0.19041 - AMD64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
 Build flags: 
@@ -21,7 +21,7 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
@@ -45,37 +45,37 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+Change Dir: D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2ae14 && [1/2] Building C object CMakeFiles\cmTC_2ae14.dir\testCCompiler.c.obj
-[2/2] Linking C executable cmTC_2ae14.exe
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_20492 && [1/2] Building C object CMakeFiles\cmTC_20492.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_20492.exe
 
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+Change Dir: D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ed924 && [1/2] Building C object CMakeFiles\cmTC_ed924.dir\CMakeCCompilerABI.c.obj
-[2/2] Linking C executable cmTC_ed924.exe
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bb70d && [1/2] Building C object CMakeFiles\cmTC_bb70d.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_bb70d.exe
 
 
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+Change Dir: D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_51417 && [1/2] Building CXX object CMakeFiles\cmTC_51417.dir\testCXXCompiler.cxx.obj
-[2/2] Linking CXX executable cmTC_51417.exe
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_90650 && [1/2] Building CXX object CMakeFiles\cmTC_90650.dir\testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_90650.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+Change Dir: D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e80c6 && [1/2] Building CXX object CMakeFiles\cmTC_e80c6.dir\CMakeCXXCompilerABI.cpp.obj
-[2/2] Linking CXX executable cmTC_e80c6.exe
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_8f79d && [1/2] Building CXX object CMakeFiles\cmTC_8f79d.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_8f79d.exe
 
 
 

@@ -41,20 +41,16 @@ int main()
 	cin >> special;
 
 	ARRAYS(arr, amount);
-	Sort(arr, amount);
 
-	cout << arr[0] << arr[1] << arr[2] << arr[3] << arr[4];
-
-	for (int j = 0; j < amount; j++)
-		if (special < arr[j]) {
-			cout << "The position of the closest bigger number is: " << j + 1 << endl;
-			break;
+	int min = arr[0];
+	for (int i = 1; i < amount - 1; i++) {
+		if (arr[i] <= arr[i + 1] && arr[i] < min && arr[i] > special) {
+			min = arr[i];
 		}
-	
-	
+		else if (arr[i + 1] < min && arr[i + 1] > special) {
+			min = arr[i + 1];
+		}
+	}
 
-
-
-
-
+	cout << "The position of the closest bigger number is: " << min << endl;
 }

@@ -23,7 +23,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)"
+			"value" : "d:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -499,7 +499,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20"
+			"value" : "D:/Projects/CSLessons/Task 11.11.20"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -511,7 +511,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/install/x64-Debug (default)"
+			"value" : "D:/Projects/CSLessons/Task 11.11.20/out/install/x64-Debug (default)"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1035,7 +1035,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)"
+			"value" : "D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)"
 		},
 		{
 			"name" : "Task 11.11.20_SOURCE_DIR",
@@ -1047,7 +1047,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20"
+			"value" : "D:/Projects/CSLessons/Task 11.11.20"
 		}
 	],
 	"kind" : "cache",
