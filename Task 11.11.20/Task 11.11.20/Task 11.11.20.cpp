@@ -12,19 +12,6 @@ void ARRAYS(int * arr , int amount) {
 	}
 }
 
-void Sort(int* arr, int size) {
-	for (int i = 0; i < size; i++) {
-		for (int j = 0; j < size - i - 1; j++) {
-			if (arr[j] > arr[j + 1]) {
-				int temp = 0;
-				temp = arr[j + 1];
-				arr[j + 1] = arr[j];
-				arr[j] = temp;
-			}
-		}
-	}
-}
-
 
 int main()
 {
@@ -32,7 +19,7 @@ int main()
 	int arr[size];
 	int amount = 0;
 	int special = 0;
-
+	
 	cout << "Please enter amount: ";
 	cin >> amount;
 	cout << "Thanks you" << endl;
@@ -41,17 +28,16 @@ int main()
 	cin >> special;
 
 	ARRAYS(arr, amount);
-	Sort(arr, amount);
 
-	cout << arr[0] << arr[1] << arr[2] << arr[3] << arr[4];
-
-	for (int j = 0; j < amount; j++)
-		if (special < arr[j]) {
-			cout << "The position of the closest bigger number is: " << j + 1 << endl;
-			break;
+	int min = arr[0];
+	for (int j = 0; j < amount - 1; j++) {
+		if (min > arr[j + 1] && special < min)
+			min = arr[j + 1];
 		}
+		
+	}
 	
-	
+	cout << min;
 
 
 
