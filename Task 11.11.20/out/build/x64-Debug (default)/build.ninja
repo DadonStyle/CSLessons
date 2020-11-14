@@ -39,7 +39,7 @@ include rules.ninja
 # Utility command for edit_cache
 
 build CMakeFiles\edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Noam\Desktop\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "D:\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -50,7 +50,7 @@ build edit_cache: phony CMakeFiles\edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Noam\Desktop\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Noam\Desktop\Projects\CSLessons\Task 11.11.20" -B"C:\Users\Noam\Desktop\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)""
+  COMMAND = cmd.exe /C "cd /D "D:\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -S"D:\Projects\CSLessons\Task 11.11.20" -B"D:\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -59,7 +59,7 @@ build rebuild_cache: phony CMakeFiles\rebuild_cache.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/CMakeLists.txt
+# D:/Projects/CSLessons/Task 11.11.20/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -103,7 +103,7 @@ build Task$ 11.11.20\CMakeTarget.exe: CXX_EXECUTABLE_LINKER__CMakeTarget_Debug T
 # Utility command for edit_cache
 
 build Task$ 11.11.20\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Noam\Desktop\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)\Task 11.11.20" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "D:\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)\Task 11.11.20" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -114,7 +114,7 @@ build Task$ 11.11.20\edit_cache: phony Task$ 11.11.20\CMakeFiles\edit_cache.util
 # Utility command for rebuild_cache
 
 build Task$ 11.11.20\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Noam\Desktop\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)\Task 11.11.20" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Noam\Desktop\Projects\CSLessons\Task 11.11.20" -B"C:\Users\Noam\Desktop\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)""
+  COMMAND = cmd.exe /C "cd /D "D:\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)\Task 11.11.20" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -S"D:\Projects\CSLessons\Task 11.11.20" -B"D:\Projects\CSLessons\Task 11.11.20\out\build\x64-Debug (default)""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -134,14 +134,14 @@ build CMakeTarget.exe: phony Task$ 11.11.20\CMakeTarget.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)
+# Folder: D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)
 
 build all: phony Task$ 11.11.20\all
 
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/Task 11.11.20
+# Folder: D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug (default)/Task 11.11.20
 
 build Task$ 11.11.20\all: phony Task$ 11.11.20\CMakeTarget.exe
 

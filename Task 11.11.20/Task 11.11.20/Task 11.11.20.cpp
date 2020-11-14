@@ -19,7 +19,8 @@ int main()
 	int arr[size];
 	int amount = 0;
 	int special = 0;
-	
+	int searchValue = 0;
+
 	cout << "Please enter amount: ";
 	cin >> amount;
 	cout << "Thanks you" << endl;
@@ -30,17 +31,36 @@ int main()
 	ARRAYS(arr, amount);
 
 	int min = arr[0];
-	for (int j = 0; j < amount - 1; j++) {
-		if (min > arr[j + 1] && special < min)
-			min = arr[j + 1];
+
+	for (int j = 1; j < amount; j++) {
+
+		while (min <= special) {
+			min = arr[j];
+			break;
 		}
-		
+
+		if (arr[j] < arr[j + 1] && arr[j] < min && arr[j] > special) {
+			min = arr[j];
+
+			if (min = arr[j]) searchValue = j;
+
+		}
+
+		else if (arr[j + 1] < arr[j] && arr[j + 1] < min && arr[j + 1] > special) {
+			min = arr[j + 1];
+
+			if (min = arr[j + 1]) searchValue = j + 1;
+		}
 	}
+
+	cout << "the smallest number that is bigger than special is: " << min << endl;
+	cout << "the position is: " << searchValue + 1 << endl;
+
+
+
 	
-	cout << min;
-
-
-
-
+		
 
 }
+	
+
