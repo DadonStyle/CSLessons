@@ -9,14 +9,7 @@
       "installRoot": "${projectDir}\\out\\install\\${name}",
       "cmakeCommandArgs": "",
       "buildCommandArgs": "",
-      "ctestCommandArgs": "",
-      "variables": [
-        {
-          "name": "CMAKE_INSTALL_PREFIX",
-          "value": "/out/install/x64-Debug",
-          "type": "PATH"
-        }
-      ]
+      "ctestCommandArgs": ""
     }
   ]
 }

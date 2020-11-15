@@ -1,7 +1,7 @@
 # ninja log v5
-1	635	626700360	Strings/CMakeFiles/Strings.dir/Strings.cpp.obj	cefbe4e9e49f50bf
-635	794	626700360	Strings/Strings.exe	ab8abf167448820c
-1	808	626722941	Strings/CMakeFiles/Strings.dir/Strings.cpp.obj	cefbe4e9e49f50bf
-808	1175	626722942	Strings/Strings.exe	ab8abf167448820c
-1	527	626722959	Strings/CMakeFiles/Strings.dir/Strings.cpp.obj	cefbe4e9e49f50bf
-527	684	626722959	Strings/Strings.exe	ab8abf167448820c
+0	707	627163683	Strings/CMakeFiles/Strings.dir/Strings.cpp.obj	6d88bb6d414b9592
+708	1453	627163683	Strings/Strings.exe	daadbec7517d04be
+0	443	627163715	Strings/CMakeFiles/Strings.dir/Strings.cpp.obj	6d88bb6d414b9592
+443	712	627163715	Strings/Strings.exe	daadbec7517d04be
+0	426	627163725	Strings/CMakeFiles/Strings.dir/Strings.cpp.obj	6d88bb6d414b9592
+426	704	627163725	Strings/Strings.exe	daadbec7517d04be

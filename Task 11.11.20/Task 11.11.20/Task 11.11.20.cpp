@@ -33,23 +33,13 @@ int main()
 	int min = arr[0];
 
 	for (int j = 1; j < amount; j++) {
-
-		while (min <= special) {
+		if (arr[j] < arr[j + 1] && (arr[j] < min || min <= special) && arr[j] > special) {
 			min = arr[j];
-			break;
+			searchValue = j;
 		}
-
-		if (arr[j] < arr[j + 1] && arr[j] < min && arr[j] > special) {
-			min = arr[j];
-
-			if (min = arr[j]) searchValue = j;
-
-		}
-
-		else if (arr[j + 1] < arr[j] && arr[j + 1] < min && arr[j + 1] > special) {
+		else if ((arr[j + 1] < min || min <= special) && arr[j + 1] > special) {
 			min = arr[j + 1];
-
-			if (min = arr[j + 1]) searchValue = j + 1;
+			searchValue = j + 1;
 		}
 	}
 

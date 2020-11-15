@@ -1,5 +1,5 @@
-C:/Users/Noam/Desktop/Projects/CSLessons/Strings/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Noam/Desktop/Projects/CSLessons/Strings/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Noam/Desktop/Projects/CSLessons/Strings/out/build/x64-Debug/Strings/CMakeFiles/Strings.dir
-C:/Users/Noam/Desktop/Projects/CSLessons/Strings/out/build/x64-Debug/Strings/CMakeFiles/edit_cache.dir
-C:/Users/Noam/Desktop/Projects/CSLessons/Strings/out/build/x64-Debug/Strings/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/Strings/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Strings/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/Strings/out/build/x64-Debug/Strings/CMakeFiles/Strings.dir
+D:/Projects/CSLessons/Strings/out/build/x64-Debug/Strings/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Strings/out/build/x64-Debug/Strings/CMakeFiles/rebuild_cache.dir

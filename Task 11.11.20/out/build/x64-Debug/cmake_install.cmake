@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20
+# Install script for directory: D:/Projects/CSLessons/Task 11.11.20
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug/Task 11.11.20/cmake_install.cmake")
+  include("D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug/Task 11.11.20/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Noam/Desktop/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Projects/CSLessons/Task 11.11.20/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
