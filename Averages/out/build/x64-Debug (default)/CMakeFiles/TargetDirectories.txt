@@ -1,0 +1,5 @@
+D:/Projects/CSLessons/Averages/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Averages/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/Averages/out/build/x64-Debug (default)/Averages/CMakeFiles/Averages.dir
+D:/Projects/CSLessons/Averages/out/build/x64-Debug (default)/Averages/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/Averages/out/build/x64-Debug (default)/Averages/CMakeFiles/rebuild_cache.dir
