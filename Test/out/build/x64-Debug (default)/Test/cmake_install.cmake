@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Noam/Desktop/Projects/CSLessons/Test/Test
+# Install script for directory: D:/Projects/CSLessons/Test/Test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Noam/Desktop/Projects/CSLessons/Test/out/install/x64-Debug (default)")
+  set(CMAKE_INSTALL_PREFIX "D:/Projects/CSLessons/Test/out/install/x64-Debug (default)")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

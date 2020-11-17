@@ -5,12 +5,20 @@
 
 using namespace std;
 
-
+/**
+ * Expands a given array's size by 1 and adds to the end of the new array the wanted value
+ * 
+ * @param int* existing		The position in memory (Pointer) of the array to expand
+ * @param int size			The current size of the given array
+ * @param int to_add		The value to add to the end of the array after expansion
+ * 
+ * @return The position of the new expanded array
+ */
 int* addToDynamicArray(int* existing, int size, int to_add) {
-	int* new_arr = new int[size + 1];
+	int* new_arr = new int[static_cast<size_t>(size) + 1];
 	// Copy previous values
 	for (int i = 0; i < size; i++) {
-		new_arr[i] = existing[i];
+		new_arr[i] = existing[i]; // existing[i] -> *(existing + i)
 	}
 	// Delete previous array location & values
 	if (existing != nullptr) delete[] existing; // Delete previous array
@@ -19,43 +27,42 @@ int* addToDynamicArray(int* existing, int size, int to_add) {
 	return new_arr;
 }
 
-int* StringPrinter(int SIZE, int* str) {
-	int* dynamic_arr = new int[1]; // Pointer
-	dynamic_arr[0] = 1;
+void printArray(int * arr, int size) {
+	for (int i = 0; i < size; i++) {
+		cout << arr[i] << " ";
+	}
+	cout << endl;
+}
 
-	for (int i = 0; i <= SIZE; i++) {
-		dynamic_arr = addToDynamicArray(dynamic_arr, dynamic_arr[0], i);
-		dynamic_arr[0]++;
+int* getArrayFromUser() {
+	int* arr = new int[1];
+	arr[0] = 1; // The size
+	int user_input = -1;
+
+	while (user_input != 0) {
+		// Get the number from the user
+		cout << "Enter a number: ";
+		cin >> user_input;
+		if (user_input == 0) break;
+		// Store the number in a collection
+		arr = addToDynamicArray(arr, arr[0], user_input);
+		arr[0]++;
 	}
 
-	return dynamic_arr;
+	return arr;
 }
 
 int main()
 {
-	const int SIZE = 256;
-	int str[SIZE] = { 0 };
-	int new_size = 0;
-	int str_size = 0;
+	int* arr1 = getArrayFromUser();
+	int* arr2 = getArrayFromUser();
 	
-	for (int i = 0; i < SIZE; i++) {
-		char temp = cin.get();
-		
-		if (temp == '0') break;
-		str[i] = temp;
-		new_size++;
-		str_size++;
-	}
-	
+	cout << "First arr: ";
+	printArray(arr1 + 1, arr1[0] - 1);
+	cout << "Second arr: ";
+	printArray(arr2 + 1, arr2[0] - 1);
 
-
-
-	int* result = StringPrinter(SIZE , str);
-	for (int i = 1; i < str_size; i++) cout << str[i] << " ";
-	// TODO: return the start index of the first occurrence of find in str;
 	return 0;
-
-
 }
 
 

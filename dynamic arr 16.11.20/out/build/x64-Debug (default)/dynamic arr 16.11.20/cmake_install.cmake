@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Noam/Desktop/Projects/CSLessons/dynamic arr 16.11.20/dynamic arr 16.11.20
+# Install script for directory: D:/Projects/CSLessons/dynamic arr 16.11.20/dynamic arr 16.11.20
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Noam/Desktop/Projects/CSLessons/dynamic arr 16.11.20/out/install/x64-Debug (default)")
+  set(CMAKE_INSTALL_PREFIX "D:/Projects/CSLessons/dynamic arr 16.11.20/out/install/x64-Debug (default)")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
