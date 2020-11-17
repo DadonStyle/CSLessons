@@ -1,0 +1,13 @@
+﻿// Test.cpp : Defines the entry point for the application.
+//
+
+#include "Test.h"
+
+using namespace std;
+
+int main()
+{
+	string myString = "Hello";
+		cout << myString[0];
+		
+}
