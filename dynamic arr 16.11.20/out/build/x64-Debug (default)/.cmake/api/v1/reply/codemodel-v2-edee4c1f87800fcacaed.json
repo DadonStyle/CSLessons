@@ -53,7 +53,7 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "CMakeTarget::@92f04950ce6b4f9725ad",
-					"jsonFile" : "target-CMakeTarget-Debug-aae0a81edcc89f2ff8f6.json",
+					"jsonFile" : "target-CMakeTarget-Debug-29661a6b34307c7874c4.json",
 					"name" : "CMakeTarget",
 					"projectIndex" : 0
 				}
@@ -63,12 +63,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Projects/CSLessons/dynamic arr 16.11.20/out/build/x64-Debug (default)",
-		"source" : "D:/Projects/CSLessons/dynamic arr 16.11.20"
+		"build" : "C:/Users/Noam/Desktop/Projects/CSLessons/dynamic arr 16.11.20/out/build/x64-Debug (default)",
+		"source" : "C:/Users/Noam/Desktop/Projects/CSLessons/dynamic arr 16.11.20"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 1
+		"minor" : 0
 	}
 }
