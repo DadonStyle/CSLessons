@@ -1,0 +1,5 @@
+C:/Users/Noam/Desktop/Projects/CSLessons/Task 18.11.2020/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Task 18.11.2020/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Task 18.11.2020/out/build/x64-Debug (default)/Task 18.11.2020/CMakeFiles/CMakeTarget.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Task 18.11.2020/out/build/x64-Debug (default)/Task 18.11.2020/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Task 18.11.2020/out/build/x64-Debug (default)/Task 18.11.2020/CMakeFiles/rebuild_cache.dir

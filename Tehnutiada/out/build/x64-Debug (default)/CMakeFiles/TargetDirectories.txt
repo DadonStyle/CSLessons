@@ -1,5 +1,5 @@
-D:/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
-D:/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
-D:/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/Tehnutiada/CMakeFiles/Tehnutiada.dir
-D:/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/Tehnutiada/CMakeFiles/edit_cache.dir
-D:/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/Tehnutiada/CMakeFiles/rebuild_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/Tehnutiada/CMakeFiles/Tehnutiada.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/Tehnutiada/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/Tehnutiada/CMakeFiles/rebuild_cache.dir

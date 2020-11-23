@@ -2,6 +2,7 @@
 //
 
 #include "Tehnutiada.h"
+#include <time.h>
 
 using namespace std;
 
@@ -10,14 +11,25 @@ void clearCin() {
 }
 
 char getRandomChar() {
-	// TODO: Generate a random character
-	return 'g';
+	char c;
+	int r;
+
+	srand(time(NULL));    // initialize the random number generator
+	for (int i = 0; i < 25; i++)
+	{
+		r = rand() % 26;   // generate a random number
+		c = 'a' + r;            // Convert to a character from a-z
+	}
+	return c;
 }
 
 int main()
 {
 	char input = ' ';
 	char winning_character = getRandomChar();
+	
+
+
 	/*
 	 * TRUE -> The first player
 	 * FALSE -> The second
