@@ -56,12 +56,24 @@ int main()
 {
 	int* arr1 = getArrayFromUser();
 	int* arr2 = getArrayFromUser();
-	
-	cout << "First arr: ";
-	printArray(arr1 + 1, arr1[0] - 1);
-	cout << "Second arr: ";
-	printArray(arr2 + 1, arr2[0] - 1);
+	int* arr = new int[(long long)(arr1[0] + arr2[0]) - 1];
+	arr[0] = arr1[0] + arr2[0] - 1;
 
+	
+	for (int i = 1; i < arr[0]; i++) {
+		if (i < arr1[0]) {
+			arr[i] = arr1[i];
+		}
+		else {
+			arr[i] = arr2[i - arr1[0] + 1];
+		}
+	}
+
+	for (int i = 1; i < arr[0]; i++) {
+		std::cout << arr[i] << ' ';
+	}
+
+	return 0;
 	return 0;
 }
 

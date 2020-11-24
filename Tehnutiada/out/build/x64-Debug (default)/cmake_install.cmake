@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Noam/Desktop/Projects/CSLessons/Tehnutiada
+# Install script for directory: D:/Projects/CSLessons/Tehnutiada
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Noam/Desktop/Projects/CSLessons/Tehnutiada/out/install/x64-Debug (default)")
+  set(CMAKE_INSTALL_PREFIX "/out/install/x64-Debug (default)")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Noam/Desktop/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/Tehnutiada/cmake_install.cmake")
+  include("D:/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/Tehnutiada/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Noam/Desktop/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Projects/CSLessons/Tehnutiada/out/build/x64-Debug (default)/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
