@@ -14,7 +14,7 @@ int main()
 	while (input != winning_character) {
 		cout << "Player " << (current_player ? 1 : 2) << " Turn: ";
 		cin >> input;
-		clearCin();
+		CINCLEAR
 		current_player = !current_player;
 	}
 

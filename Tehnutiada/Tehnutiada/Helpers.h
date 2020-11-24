@@ -3,7 +3,8 @@
 /**
  * Clears the cin stream from characters until a new line
  */
-void clearCin();
+#define CINCLEAR while (std::cin.get() != '\n');
+
 /**
  * Returns a random character from a to z
  */

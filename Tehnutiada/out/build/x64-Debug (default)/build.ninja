@@ -85,13 +85,6 @@ build Tehnutiada\CMakeFiles\Tehnutiada.dir\Helpers.cpp.obj: CXX_COMPILER__Tehnut
   TARGET_COMPILE_PDB = Tehnutiada\CMakeFiles\Tehnutiada.dir\
   TARGET_PDB = Tehnutiada\Tehnutiada.pdb
 
-build Tehnutiada\CMakeFiles\Tehnutiada.dir\Kaki.cpp.obj: CXX_COMPILER__Tehnutiada_Debug ..\..\..\Tehnutiada\Kaki.cpp || cmake_object_order_depends_target_Tehnutiada
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
-  OBJECT_DIR = Tehnutiada\CMakeFiles\Tehnutiada.dir
-  OBJECT_FILE_DIR = Tehnutiada\CMakeFiles\Tehnutiada.dir
-  TARGET_COMPILE_PDB = Tehnutiada\CMakeFiles\Tehnutiada.dir\
-  TARGET_PDB = Tehnutiada\Tehnutiada.pdb
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Tehnutiada
@@ -100,7 +93,7 @@ build Tehnutiada\CMakeFiles\Tehnutiada.dir\Kaki.cpp.obj: CXX_COMPILER__Tehnutiad
 #############################################
 # Link the executable Tehnutiada\Tehnutiada.exe
 
-build Tehnutiada\Tehnutiada.exe: CXX_EXECUTABLE_LINKER__Tehnutiada_Debug Tehnutiada\CMakeFiles\Tehnutiada.dir\Tehnutiada.cpp.obj Tehnutiada\CMakeFiles\Tehnutiada.dir\Helpers.cpp.obj Tehnutiada\CMakeFiles\Tehnutiada.dir\Kaki.cpp.obj
+build Tehnutiada\Tehnutiada.exe: CXX_EXECUTABLE_LINKER__Tehnutiada_Debug Tehnutiada\CMakeFiles\Tehnutiada.dir\Tehnutiada.cpp.obj Tehnutiada\CMakeFiles\Tehnutiada.dir\Helpers.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
