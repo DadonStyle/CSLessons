@@ -3,7 +3,7 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project ("Tehnutiada")
+project ("BucketSort Function")
 
 # Include sub-projects.
-add_subdirectory ("Tehnutiada")
+add_subdirectory ("BucketSort Function")
