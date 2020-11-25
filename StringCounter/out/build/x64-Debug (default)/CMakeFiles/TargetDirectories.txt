@@ -1,0 +1,5 @@
+D:/Projects/CSLessons/StringCounter/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/StringCounter/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/StringCounter/out/build/x64-Debug (default)/StringCounter/CMakeFiles/StringCounter.dir
+D:/Projects/CSLessons/StringCounter/out/build/x64-Debug (default)/StringCounter/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/StringCounter/out/build/x64-Debug (default)/StringCounter/CMakeFiles/rebuild_cache.dir

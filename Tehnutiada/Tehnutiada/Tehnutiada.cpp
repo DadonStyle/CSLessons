@@ -15,7 +15,7 @@ int main()
 		cout << "Player " << (current_player ? 1 : 2) << " Turn: ";
 		cin >> input;
 		CINCLEAR
-			current_player = !current_player;
+		current_player = !current_player;
 	}
 
 	cout << "Player " << (current_player ? 2 : 1) << " WON";
