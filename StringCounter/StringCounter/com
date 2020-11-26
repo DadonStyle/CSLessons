@@ -1,0 +1,6 @@
+// Display console message:
+// Listen for input from user
+// Clear unecessary input
+// Get the index of the selected letter
+// If letter appeared more than twice, then display error and re-try
+// Else, count letter and switch turn

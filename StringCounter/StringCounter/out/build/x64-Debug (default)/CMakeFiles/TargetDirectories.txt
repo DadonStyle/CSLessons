@@ -1,0 +1,3 @@
+C:/Users/Noam/Desktop/Projects/CSLessons/StringCounter/StringCounter/out/build/x64-Debug (default)/CMakeFiles/StringCounter.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/StringCounter/StringCounter/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/StringCounter/StringCounter/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
