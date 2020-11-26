@@ -1,0 +1,27 @@
+# ninja log v5
+1	914	628105480	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+914	1528	628105480	StringCounter/StringCounter.exe	27252038d7db51d
+0	432	628105527	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+432	753	628105527	StringCounter/StringCounter.exe	27252038d7db51d
+0	438	628105534	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+438	739	628105534	StringCounter/StringCounter.exe	27252038d7db51d
+1	430	628105614	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+431	688	628105614	StringCounter/StringCounter.exe	27252038d7db51d
+1	596	628105789	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+597	828	628105790	StringCounter/StringCounter.exe	27252038d7db51d
+0	431	628105811	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+431	680	628105811	StringCounter/StringCounter.exe	27252038d7db51d
+1	417	628105842	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+418	688	628105842	StringCounter/StringCounter.exe	27252038d7db51d
+0	428	628105891	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+428	712	628105891	StringCounter/StringCounter.exe	27252038d7db51d
+0	423	628105905	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+423	656	628105905	StringCounter/StringCounter.exe	27252038d7db51d
+0	449	628105915	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+449	697	628105915	StringCounter/StringCounter.exe	27252038d7db51d
+0	421	628105926	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+421	675	628105926	StringCounter/StringCounter.exe	27252038d7db51d
+0	436	628105932	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+436	810	628105933	StringCounter/StringCounter.exe	27252038d7db51d
+0	438	628105955	StringCounter/CMakeFiles/StringCounter.dir/StringCounter.cpp.obj	b648bea2dfd6bc25
+438	717	628105955	StringCounter/StringCounter.exe	27252038d7db51d
