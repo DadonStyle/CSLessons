@@ -1,11 +1,7 @@
 # ninja log v5
-1	583	628106715	NumberCounter/CMakeFiles/NumberCounter.dir/NumberCounter.cpp.obj	585e672e5d5fe307
-583	1127	628106715	NumberCounter/NumberCounter.exe	c0c8c2a26c4918af
-0	432	628108233	NumberCounter/CMakeFiles/NumberCounter.dir/NumberCounter.cpp.obj	585e672e5d5fe307
-432	931	628108234	NumberCounter/NumberCounter.exe	c0c8c2a26c4918af
-0	407	628108304	NumberCounter/CMakeFiles/NumberCounter.dir/NumberCounter.cpp.obj	585e672e5d5fe307
-407	673	628108304	NumberCounter/NumberCounter.exe	c0c8c2a26c4918af
-0	436	628108354	NumberCounter/CMakeFiles/NumberCounter.dir/NumberCounter.cpp.obj	585e672e5d5fe307
-436	716	628108354	NumberCounter/NumberCounter.exe	c0c8c2a26c4918af
-0	434	628108948	NumberCounter/CMakeFiles/NumberCounter.dir/NumberCounter.cpp.obj	585e672e5d5fe307
-434	798	628108948	NumberCounter/NumberCounter.exe	c0c8c2a26c4918af
+2	950	628221749	NumberCounter/CMakeFiles/NumberCounter.dir/NumberCounter.cpp.obj	d09549414f27aaed
+951	2294	628221750	NumberCounter/NumberCounter.exe	7da0c93eca81bc1f
+1	977	628221786	NumberCounter/CMakeFiles/NumberCounter.dir/NumberCounter.cpp.obj	d09549414f27aaed
+977	1702	628221787	NumberCounter/NumberCounter.exe	7da0c93eca81bc1f
+0	633	628221819	NumberCounter/CMakeFiles/NumberCounter.dir/NumberCounter.cpp.obj	d09549414f27aaed
+633	1233	628221820	NumberCounter/NumberCounter.exe	7da0c93eca81bc1f

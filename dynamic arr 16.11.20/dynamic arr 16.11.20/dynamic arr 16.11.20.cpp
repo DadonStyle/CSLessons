@@ -16,13 +16,10 @@ using namespace std;
  */
 int* addToDynamicArray(int* existing, int size, int to_add) {
 	int* new_arr = new int[static_cast<size_t>(size) + 1];
-	// Copy previous values
 	for (int i = 0; i < size; i++) {
-		new_arr[i] = existing[i]; // existing[i] -> *(existing + i)
+		new_arr[i] = existing[i];
 	}
-	// Delete previous array location & values
-	if (existing != nullptr) delete[] existing; // Delete previous array
-	// Add the new element to array
+	if (existing != nullptr) delete[] existing; // 
 	new_arr[size] = to_add;
 	return new_arr;
 }
@@ -40,11 +37,10 @@ int* getArrayFromUser() {
 	int user_input = -1;
 
 	while (user_input != 0) {
-		// Get the number from the user
+		
 		cout << "Enter a number: ";
 		cin >> user_input;
 		if (user_input == 0) break;
-		// Store the number in a collection
 		arr = addToDynamicArray(arr, arr[0], user_input);
 		arr[0]++;
 	}

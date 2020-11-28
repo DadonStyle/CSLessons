@@ -1,5 +1,5 @@
-D:/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
-D:/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
-D:/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/NumberCounter/CMakeFiles/NumberCounter.dir
-D:/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/NumberCounter/CMakeFiles/edit_cache.dir
-D:/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/NumberCounter/CMakeFiles/rebuild_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/NumberCounter/CMakeFiles/NumberCounter.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/NumberCounter/CMakeFiles/edit_cache.dir
+C:/Users/Noam/Desktop/Projects/CSLessons/NumberCounter/out/build/x64-Debug (default)/NumberCounter/CMakeFiles/rebuild_cache.dir
