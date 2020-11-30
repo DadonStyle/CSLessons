@@ -19,32 +19,36 @@ int* concatenate(int* arr1, int* arr2, long long int arr1_size, long long int ar
 	return temp;
 }
   
-void DupliKiller(int* arr, int size) {
-	for (int i = 0; i < size;i++) {
-		for (int j = 0; j < size; j++) {
-			if (j + i >= size) j == 0;
+int DupliKiller(int* arr, int n) {
+	
+		int j = 0;
 
-			else if (j == 0 && i == 0) j == 1;
+		for (int i = 0; i < n; i++) {
+			for (j = i + 1;j < n;)
+			{
+				if (arr[i] == arr[j])
+				{
+					for (int k = j;k < n - 1;++k)
+						arr[k] = arr[k + 1];
 
-			else if (arr[j] == arr[i]) {
-				size = size - 1;
-				
+					--n;
+				}
+				else
+					++j;
 			}
-
-			else continue;
-			
 		}
+
+		return n;
 	}
-}
 
  int main()
 
  {
 	 int input = -1;
 	 int* arr1 = nullptr;
-	 long long int arr1_size = 0;
+	 int arr1_size = 0;
 	 int* arr2 = nullptr;
-	 long long int arr2_size = 0;
+	 int arr2_size = 0;
 	 int arr3_size = 0;
 
 	 cout << "Please enter the first array: ";
@@ -69,7 +73,7 @@ void DupliKiller(int* arr, int size) {
 	 cout << endl;
 	 arr3_size = arr1_size + arr2_size;
 
-	 DupliKiller(arr3, arr3_size);
+	 arr3_size = DupliKiller(arr3, arr3_size);
 
 	 for (int i = 0; i < arr3_size;i++) cout << "|" << arr3[i];
 
