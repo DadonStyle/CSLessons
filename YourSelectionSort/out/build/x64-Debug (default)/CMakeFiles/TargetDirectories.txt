@@ -1,0 +1,5 @@
+D:/Projects/CSLessons/YourSelectionSort/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/YourSelectionSort/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+D:/Projects/CSLessons/YourSelectionSort/out/build/x64-Debug (default)/YourSelectionSort/CMakeFiles/edit_cache.dir
+D:/Projects/CSLessons/YourSelectionSort/out/build/x64-Debug (default)/YourSelectionSort/CMakeFiles/YourSelectionSort.dir
+D:/Projects/CSLessons/YourSelectionSort/out/build/x64-Debug (default)/YourSelectionSort/CMakeFiles/rebuild_cache.dir
